@@ -1,4 +1,4 @@
-# Todo Application
+# Planner Application
 
 ## Overview
 
